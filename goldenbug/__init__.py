@@ -1,2 +1,2 @@
 "init file"
-from goldenbug import (hamming_distance)
+from main import (hamming_distance)
