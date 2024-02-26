@@ -1,7 +1,5 @@
 def hamming_distance(p, q):
-    """
-    calculates the hamming distance between two sequences
-    """
+    "calculates the hamming distance between two sequences p and q"
     dist = 0
     n = len(p)
     for i in range(n):
